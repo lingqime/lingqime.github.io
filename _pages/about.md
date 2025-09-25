@@ -1,8 +1,10 @@
 ---
-layout: home
 title: "Homepage"
 permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Welcome to My Academic Homepage
