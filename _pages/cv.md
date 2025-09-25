@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mathematics, State University of New York at Buffalo, 2022  
+* B.S. in Statistics, Nankai University, 2016  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2025 – present: Lecturer  
+  * Yanbian University (延边大学)  
+  * Research interest: Machine Learning and Bioinformatics  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2022 – July 2024: Postdoctoral Researcher  
+  * KTH Royal Institute of Technology (Kungliga Tekniska högskolan)  
+  * Supervisor: Adil Mardinoglu  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2015: Research Assistant  
+  * University of Münster (Universität Münster)  
+  * Supervisor: Christina Lill  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical analysis  
+* Machine Learning algorithm design  
+* Bioinformatics algorithm design  
+* Academic writing  
 
 Publications
 ======
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* To be updated  
