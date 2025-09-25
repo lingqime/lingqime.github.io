@@ -20,13 +20,13 @@ Work experience
   * Yanbian University (延边大学)  
   * Research interest: Machine Learning and Bioinformatics  
 
+* July 2024 - November 2024: Postdoctoral Researcher  
+  * University of Münster (Universität Münster)  
+  * Supervisor: Christina Lill
+
 * July 2022 – July 2024: Postdoctoral Researcher  
   * KTH Royal Institute of Technology (Kungliga Tekniska högskolan)  
   * Supervisor: Adil Mardinoglu  
-
-* Summer 2015: Research Assistant  
-  * University of Münster (Universität Münster)  
-  * Supervisor: Christina Lill  
 
 Skills
 ======
