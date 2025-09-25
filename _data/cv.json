@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Lingqi Meng",
+    "email": "lingqime@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://lingqime.github.io",
+    "summary": "Lecturer at Yanbian University. Researcher in machine learning and bioinformatics.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Yanbian",
+      "countryCode": "China",
+      "postalCode": "133002"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
         "url": "http://orcid.org/yourorcidurl"
       },
       {
@@ -30,123 +26,183 @@
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "Yanbian University",
+      "position": "Lecturer",
+      "startDate": "2025-07",
+      "summary": "Teaching and research in machine learning and bioinformatics"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "KTH Royal Institute of Technology",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2022-07",
+      "endDate": "2024-07",
+      "summary": "Postdoctoral researcher under supervision of Adil Mardinoglu"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "University of Münster",
+      "position": "Research Assistant",
+      "startDate": "2015-06",
+      "endDate": "2015-08",
+      "summary": "Summer research under supervision of Christina Lill"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "education": [
+    {
+      "institution": "State University of New York at Buffalo",
+      "area": "Mathematics",
+      "studyType": "Ph.D.",
+      "endDate": "2022"
+    },
+    {
+      "institution": "Nankai University",
+      "area": "Statistics",
+      "studyType": "B.S.",
+      "endDate": "2016"
+    }
+  ],
+  "skills": [
+    {"name": "Mathematical analysis"},
+    {"name": "Machine Learning algorithm design"},
+    {"name": "Bioinformatics algorithm design"},
+    {"name": "Academic writing"}
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Analysis of node2vec random walks on networks",
+      "publisher": "Proc. R. Soc. A — Math. Phys. Eng. Sci.",
+      "releaseDate": "2020",
+      "summary": "Lingqi Meng, Naoki Masuda"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Epidemic dynamics on metapopulation networks with node2vec mobility",
+      "publisher": "J. Theor. Biol.",
+      "releaseDate": "2022",
+      "summary": "Lingqi Meng, Naoki Masuda"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Perturbation theory for evolution of cooperation on networks",
+      "publisher": "J. Math. Biol.",
+      "releaseDate": "2023",
+      "summary": "Lingqi Meng, Naoki Masuda"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Cooperation and the social brain hypothesis in primate social networks",
+      "publisher": "Front. Complex Syst.",
+      "releaseDate": "2024",
+      "summary": "Neil G. MacLaren, Lingqi Meng, Melissa Collier, Naoki Masuda"
+    },
+    {
+      "name": "Multi-omics analysis reveals key factors associated with the Parkinson’s Disease severity",
+      "publisher": "Submitted to PNAS (under review)",
+      "releaseDate": "2024",
+      "summary": "Han Jin, Lingqi Meng, Burak Yulug, Ozlem Altay, Xiangyu Li, et al."
+    },
+    {
+      "name": "Multi-omics analysis reveals the key factors involved in the severity of the Alzheimer’s disease",
+      "publisher": "Alzheimers Res. Ther.",
+      "releaseDate": "2024",
+      "summary": "Lingqi Meng, Han Jin, Burak Yulug, Ozlem Altay, Xiangyu Li, et al."
+    },
+    {
+      "name": "WBT-DC Pipeline: Whole Blood Transcriptomics data-based Disease Classification",
+      "publisher": "Submitted to Nat. Commun. (under review)",
+      "releaseDate": "2024",
+      "summary": "Mengzhen Li, Han Jin, Lingqi Meng, Ozlem Altay, et al."
+    },
+    {
+      "name": "Integrative proteo-transcriptomic characterization of advanced fibrosis in chronic liver disease across etiologies",
+      "publisher": "Cell Rep. Med.",
+      "releaseDate": "2025",
+      "summary": "Hong Yang, Dila Atak, Meng Yuan, Mengzhen Li, Lingqi Meng, et al."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Identification of diagnostic biomarkers for multiple diseases through proteomics analysis in a large cohort",
+      "event": "Science for Life Laboratory",
+      "date": "2023-09-15",
+      "location": "Stockholm, Sweden"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Exploring potential cancer treatment strategies through evolutionary games on cellular networks",
+      "event": "Science for Life Laboratory",
+      "date": "2022-08-24",
+      "location": "Stockholm, Sweden"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Spreading processes on metapopulation models with node2vec mobility",
+      "event": "Networks seminar at the University of Oxford",
+      "date": "2022-02-08",
+      "location": "Online"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Epidemic threshold for metapopulation model networks with a second-order mobility rule",
+      "event": "NERCCS2021",
+      "date": "2021-03-31",
+      "location": "Online"
+    },
+    {
+      "name": "Diffusion speed of the node2vec random walk on networks",
+      "event": "Conference on Complex Systems 2020",
+      "date": "2020-12-04",
+      "location": "Online"
+    },
+    {
+      "name": "Stationary distribution and spectral gap of the node2vec random walks",
+      "event": "NERCCS2020",
+      "date": "2020-04-01",
+      "location": "Online"
+    },
+    {
+      "name": "Second-order random walks in a toy network",
+      "event": "International Joint Conference on AI & Data Science",
+      "date": "2019-11-04",
+      "location": "Suwon, South Korea"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Statistics in Metagenomics",
+      "institution": "King's College London",
+      "date": "2023-09",
+      "role": "Lecturer"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Linear Programming",
+      "institution": "King's College London",
+      "date": "2022-09",
+      "role": "Lecturer"
+    },
+    {
+      "course": "Calculus III (MTH 241)",
+      "institution": "University at Buffalo",
+      "date": "2019-01, 2020-09",
+      "role": "Teaching Assistant"
+    },
+    {
+      "course": "Differential Equations (MTH 306)",
+      "institution": "University at Buffalo",
+      "date": "2019-09",
+      "role": "Teaching Assistant"
+    },
+    {
+      "course": "Linear Algebra (MTH 309)",
+      "institution": "University at Buffalo",
+      "date": "2021-01, 2021-09",
+      "role": "Teaching Assistant"
+    },
+    {
+      "course": "Mathematical Analysis (MTH 431)",
+      "institution": "University at Buffalo",
+      "date": "2018-09, 2022-01",
+      "role": "Teaching Assistant"
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+  "interests": [
+    {"name": "Machine Learning"},
+    {"name": "Bioinformatics"},
+    {"name": "Network Science"}
   ]
 }
