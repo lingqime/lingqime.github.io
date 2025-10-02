@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Academic Homepage"
+title: "Lingqi Meng Homepage"
 permalink: /
 author_profile: true
 redirect_from: 
