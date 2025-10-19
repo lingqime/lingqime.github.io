@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Lingqi Meng"
 permalink: /
 author_profile: true
 redirect_from: 
