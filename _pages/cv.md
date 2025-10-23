@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mathematics, State University of New York at Buffalo, 2022  
+* Ph.D. in Mathematics, State University of New York at Buffalo, 2022
+  * Supervisor: [Naoki Masuda](https://naokimas.github.io/naokimasuda.github.io/)
 * B.S. in Statistics, Nankai University, 2016  
 
 Work experience
 ======
 * July 2025 – present: Lecturer  
-  * Yanbian University (延边大学)  
+  * Yanbian University
   * Research interest: Machine Learning and Bioinformatics  
 
 * July 2024 - November 2024: Postdoctoral Researcher  
   * University of Münster (Universität Münster)  
-  * Supervisor: Christina Lill
+  * Supervisor: [Christina Lill](https://www.medizin.uni-muenster.de/epi/institut/mitarbeiter/univ-prof-dr-med-christina-lill-translationale-epidemiologie.html)
 
 * July 2022 – July 2024: Postdoctoral Researcher  
   * KTH Royal Institute of Technology (Kungliga Tekniska högskolan)  
-  * Supervisor: Adil Mardinoglu  
+  * Supervisor: [Adil Mardinoglu](https://www.kcl.ac.uk/people/adil-mardinoglu)
 
 Skills
 ======
